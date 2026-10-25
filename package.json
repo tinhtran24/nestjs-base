@@ -1,5 +1,5 @@
 {
-  "name": "crosswim_api",
+  "name": "nestjs_api",
   "version": "0.1.0",
   "description": "NestJS + Sequelize base API: authentication, users and decorator-driven CRUD",
   "author": "",

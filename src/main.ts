@@ -18,7 +18,7 @@ async function bootstrap() {
     const document = SwaggerModule.createDocument(
       app,
       new DocumentBuilder()
-        .setTitle('Crosswim API')
+        .setTitle('Nestjs API')
         .setVersion('1.0')
         .addBearerAuth()
         .build(),

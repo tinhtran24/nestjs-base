@@ -1,4 +1,4 @@
-# Crosswim API Base
+# Nestjs API Base
 
 NestJS 10 + Sequelize (PostgreSQL) base: authentication (JWT, email verification, password reset), users/roles, and a decorator-driven CRUD core (`@Crud()`).
 

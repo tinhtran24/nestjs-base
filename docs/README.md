@@ -1,4 +1,4 @@
-# Tài liệu kỹ thuật — Crosswim API Base
+# Tài liệu kỹ thuật — Nestjs API Base
 
 Base project NestJS + Sequelize (PostgreSQL) chỉ giữ lại phần **authentication + user/role**, và một **CRUD core dựa trên decorator** để dựng module mới nhanh.
 
